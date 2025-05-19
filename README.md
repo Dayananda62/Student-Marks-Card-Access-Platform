@@ -1,7 +1,9 @@
 🎓 Student Marks Card Access Platform
+
 A web-based application built using HTML, CSS, JavaScript, PHP, and MySQL that allows students to view their academic marks online and enables administrators to manage and update student records.
 
 📚 Project Overview
+
 This platform aims to digitize the traditional student marks card system. It offers a secure and user-friendly interface for:
 
 📥 Storing student academic records
