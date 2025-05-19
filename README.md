@@ -29,14 +29,14 @@
 
   👨‍🎓 Student:
   
-    Register and login
-    
-    View marks card and personal details
-    
-    Secure password-based access
+  Register and login
+  
+  View marks card and personal details
+  
+  Secure password-based access
   
   🧑‍🏫 Admin:
   
-    Insert and update student marks
-    
-    Delete records as necessary
+  Insert and update student marks
+  
+  Delete records as necessary
